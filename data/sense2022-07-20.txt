@@ -1,0 +1,6 @@
+H2: 1.23622e-11 ppm, NH3: 1.91187e-07 ppm, C7H8: 1.67369e-08 ppm
+O3: 201.536 ppm
+LPG: 147.661 ppm,CH4: 128.526 ppm,CO: 2.68754 ppm
+LPG: 93466.9 ppm,CH4: 3.62826e+06 ppm,CO: 169.305 ppm,ALCOHOL: 3613.96 ppm
+Humidity is: 89.00%
+Temperature is: 22.20C

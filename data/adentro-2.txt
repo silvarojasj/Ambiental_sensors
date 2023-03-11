@@ -1,0 +1,106 @@
+H2: 9.24059e-12 ppm, NH3: 1.56146e-07 ppm, C7H8: 1.32605e-08 ppm
+O3: 651.578 ppm
+LPG: 667.608 ppm,CH4: 1165.05 ppm,CO: 614.154 ppm
+LPG: 97050.4 ppm,CH4: 3.76737e+06 ppm,CO: 229.721 ppm,ALCOHOL: 3697.63 ppm
+Humidity is: 73.70%
+Temperature is: 19.70CH2: 1.38331e-11 ppm, NH3: 2.06738e-07 ppm, C7H8: 1.83119e-08 ppm
+O3: 884.432 ppm
+LPG: 499.467 ppm,CH4: 762.49 ppm,CO: 216.085 ppm
+LPG: 97879.4 ppm,CH4: 3.79955e+06 ppm,CO: 246.129 ppm,ALCOHOL: 3716.81 ppm
+Humidity is: 74.80%
+Temperature is: 20.20CH2: 1.05336e-11 ppm, NH3: 1.7104e-07 ppm, C7H8: 1.47252e-08 ppm
+O3: 886.481 ppm
+LPG: 456.55 ppm,CH4: 668.693 ppm,CO: 156.372 ppm
+LPG: 98293.9 ppm,CH4: 3.81564e+06 ppm,CO: 254.711 ppm,ALCOHOL: 3726.38 ppm
+Humidity is: 68.50%
+Temperature is: 20.40CH2: 1.22718e-11 ppm, NH3: 1.90213e-07 ppm, C7H8: 1.6639e-08 ppm
+O3: 851.495 ppm
+LPG: 571.054 ppm,CH4: 927.306 ppm,CO: 349.975 ppm
+LPG: 98781.4 ppm,CH4: 3.83457e+06 ppm,CO: 265.142 ppm,ALCOHOL: 3737.61 ppm
+Humidity is: 68.00%
+Temperature is: 20.60CH2: 1.34672e-11 ppm, NH3: 2.0292e-07 ppm, C7H8: 1.79235e-08 ppm
+O3: 839.144 ppm
+LPG: 442.403 ppm,CH4: 638.636 ppm,CO: 139.619 ppm
+LPG: 98126.3 ppm,CH4: 3.80914e+06 ppm,CO: 251.211 ppm,ALCOHOL: 3722.51 ppm
+Humidity is: 81.80%
+Temperature is: 20.90CH2: 1.51846e-11 ppm, NH3: 2.2059e-07 ppm, C7H8: 1.97298e-08 ppm
+O3: 927.233 ppm
+LPG: 628.765 ppm,CH4: 1067.36 ppm,CO: 494.947 ppm
+LPG: 98420.6 ppm,CH4: 3.82056e+06 ppm,CO: 257.387 ppm,ALCOHOL: 3729.3 ppm
+Humidity is: 80.70%
+Temperature is: 21.00CH2: 3.7154e-11 ppm, NH3: 4.11071e-07 ppm, C7H8: 4.03649e-08 ppm
+O3: 995.545 ppm
+LPG: 717.105 ppm,CH4: 1293.39 ppm,CO: 794.507 ppm
+LPG: 99150.7 ppm,CH4: 3.8489e+06 ppm,CO: 273.289 ppm,ALCOHOL: 3746.11 ppm
+Humidity is: 84.40%
+Temperature is: 21.40CH2: 3.83282e-11 ppm, NH3: 4.20065e-07 ppm, C7H8: 4.13823e-08 ppm
+O3: 939.431 ppm
+LPG: 675.197 ppm,CH4: 1184.45 ppm,CO: 639.661 ppm
+LPG: 99337.4 ppm,CH4: 3.85615e+06 ppm,CO: 277.491 ppm,ALCOHOL: 3750.4 ppm
+Humidity is: 86.90%
+Temperature is: 21.70CH2: 3.63585e-11 ppm, NH3: 4.04928e-07 ppm, C7H8: 3.9672e-08 ppm
+O3: 963.62 ppm
+LPG: 632.967 ppm,CH4: 1077.8 ppm,CO: 506.959 ppm
+LPG: 99389.9 ppm,CH4: 3.85819e+06 ppm,CO: 278.683 ppm,ALCOHOL: 3751.6 ppm
+Humidity is: 88.10%
+Temperature is: 21.90CH2: 3.44672e-11 ppm, NH3: 3.90157e-07 ppm, C7H8: 3.80123e-08 ppm
+O3: 987.543 ppm
+LPG: 591.733 ppm,CH4: 976.774 ppm,CO: 397.789 ppm
+LPG: 99384.8 ppm,CH4: 3.85799e+06 ppm,CO: 278.567 ppm,ALCOHOL: 3751.48 ppm
+Humidity is: 88.70%
+Temperature is: 22.00CH2: 3.21978e-11 ppm, NH3: 3.72102e-07 ppm, C7H8: 3.59965e-08 ppm
+O3: 987.543 ppm
+LPG: 569.589 ppm,CH4: 923.832 ppm,CO: 346.753 ppm
+LPG: 99493.5 ppm,CH4: 3.86221e+06 ppm,CO: 281.046 ppm,ALCOHOL: 3753.98 ppm
+Humidity is: 89.20%
+Temperature is: 22.20CH2: 3.1304e-11 ppm, NH3: 3.64885e-07 ppm, C7H8: 3.51949e-08 ppm
+O3: 951.559 ppm
+LPG: 566.697 ppm,CH4: 916.988 ppm,CO: 340.458 ppm
+LPG: 99540.7 ppm,CH4: 3.86404e+06 ppm,CO: 282.131 ppm,ALCOHOL: 3755.06 ppm
+Humidity is: 89.80%
+Temperature is: 22.20CH2: 3.09781e-11 ppm, NH3: 3.62238e-07 ppm, C7H8: 3.49015e-08 ppm
+O3: 963.62 ppm
+LPG: 545.102 ppm,CH4: 866.385 ppm,CO: 296.019 ppm
+LPG: 99586.8 ppm,CH4: 3.86583e+06 ppm,CO: 283.192 ppm,ALCOHOL: 3756.12 ppm
+Humidity is: 97.80%
+Temperature is: 22.20CH2: 2.97724e-11 ppm, NH3: 3.52372e-07 ppm, C7H8: 3.38105e-08 ppm
+O3: 995.545 ppm
+LPG: 530.885 ppm,CH4: 833.57 ppm,CO: 269.155 ppm
+LPG: 99601.2 ppm,CH4: 3.86639e+06 ppm,CO: 283.524 ppm,ALCOHOL: 3756.45 ppm
+Humidity is: 93.90%
+Temperature is: 22.20CH2: 2.86757e-11 ppm, NH3: 3.4329e-07 ppm, C7H8: 3.28103e-08 ppm
+O3: 1027.27 ppm
+LPG: 416.175 ppm,CH4: 584.083 ppm,CO: 112.045 ppm
+LPG: 98796.4 ppm,CH4: 3.83515e+06 ppm,CO: 265.467 ppm,ALCOHOL: 3737.96 ppm
+Humidity is: 84.00%
+Temperature is: 22.00CH2: 1.44064e-11 ppm, NH3: 2.12663e-07 ppm, C7H8: 1.89167e-08 ppm
+O3: 1027.27 ppm
+LPG: 441.83 ppm,CH4: 637.429 ppm,CO: 138.969 ppm
+LPG: 98808.4 ppm,CH4: 3.83561e+06 ppm,CO: 265.729 ppm,ALCOHOL: 3738.23 ppm
+Humidity is: 86.80%
+Temperature is: 22.10CH2: 1.71794e-11 ppm, NH3: 2.40368e-07 ppm, C7H8: 2.17775e-08 ppm
+O3: 987.543 ppm
+LPG: 463.322 ppm,CH4: 683.235 ppm,CO: 164.885 ppm
+LPG: 99118.5 ppm,CH4: 3.84765e+06 ppm,CO: 272.569 ppm,ALCOHOL: 3745.36 ppm
+Humidity is: 88.20%
+Temperature is: 22.20CH2: 1.91475e-11 ppm, NH3: 2.59204e-07 ppm, C7H8: 2.37514e-08 ppm
+O3: 995.545 ppm
+LPG: 473.537 ppm,CH4: 705.352 ppm,CO: 178.35 ppm
+LPG: 99124.9 ppm,CH4: 3.8479e+06 ppm,CO: 272.712 ppm,ALCOHOL: 3745.51 ppm
+Humidity is: 89.90%
+Temperature is: 22.30CH2: 2.04034e-11 ppm, NH3: 2.70917e-07 ppm, C7H8: 2.49897e-08 ppm
+O3: 987.543 ppm
+LPG: 429.718 ppm,CH4: 612.061 ppm,CO: 125.737 ppm
+LPG: 98430 ppm,CH4: 3.82093e+06 ppm,CO: 257.587 ppm,ALCOHOL: 3729.52 ppm
+Humidity is: 99.90%
+Temperature is: 22.40CH2: 1.59268e-11 ppm, NH3: 2.28036e-07 ppm, C7H8: 2.04976e-08 ppm
+O3: 927.233 ppm
+LPG: 413.91 ppm,CH4: 579.445 ppm,CO: 109.866 ppm
+LPG: 98417.7 ppm,CH4: 3.82045e+06 ppm,CO: 257.326 ppm,ALCOHOL: 3729.23 ppm
+Humidity is: 89.00%
+Temperature is: 22.10CH2: 1.47581e-11 ppm, NH3: 2.1626e-07 ppm, C7H8: 1.92852e-08 ppm
+O3: 987.543 ppm
+LPG: 532.721 ppm,CH4: 837.785 ppm,CO: 272.52 ppm
+LPG: 99395.1 ppm,CH4: 3.85839e+06 ppm,CO: 278.8 ppm,ALCOHOL: 3751.72 ppm
+Humidity is: 81.10%
+Temperature is: 22.20C
